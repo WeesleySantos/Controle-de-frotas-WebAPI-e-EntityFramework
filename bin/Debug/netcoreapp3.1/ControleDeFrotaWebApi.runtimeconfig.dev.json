@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MetalMorfin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MetalMorfin\\.nuget\\packages"
+    ]
+  }
+}
